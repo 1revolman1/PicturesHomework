@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div.total > ul > li {
+  display: inline-block;
+  width: 150px;
+  padding-top: 5px;
+}
+div.head > ul > li {
+  display: inline-block;
+  width: 68px;
+  padding-bottom: 5px;
+}
+td {
+  text-align: left;
+  padding-right: 24px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  /* padding: 10px 0 10px 24px; */
+}
+p {
+  padding-bottom: 20px;
+  font-weight: 800;
+}
+span {
+  font-weight: 800;
+}
+hr {
+  width: 200px;
+}
+body {
+  height: 196px;
+  width: 350px;
+}

@@ -1,0 +1,43 @@
+p {
+  font-size: 30px;
+}
+.first {
+  background: red;
+  height: 300px;
+  width: 300px;
+}
+.second {
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  width: 300px;
+}
+.third {
+  background: purple;
+  width: 296px;
+  height: 150px;
+}
+.fouth {
+  width: 300px;
+  height: 150px;
+}
+.five {
+  height: 147px;
+  width: 147px;
+  background: navy;
+}
+.six {
+  height: 147px;
+  width: 147px;
+  margin: 2px;
+}
+.seven {
+  height: 5em;
+  width: 9em;
+  background: orange;
+}
+.oct {
+  height: 61px;
+  width: 9em;
+  background: gray;
+}
