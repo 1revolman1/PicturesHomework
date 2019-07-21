@@ -1,0 +1,51 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+.first {
+  width: 100%;
+  height: 15%;
+  background: red;
+  float: left;
+}
+.second {
+  width: 100%;
+  height: 70%;
+  float: left;
+}
+.third {
+  width: 100%;
+  height: 15%;
+  float: left;
+  background: darkgreen;
+}
+.table {
+  width: 33%;
+  height: 100%;
+  background: sienna;
+  float: left;
+}
+.chart {
+  width: 33%;
+  height: 100%;
+  background: seashell;
+  float: left;
+}
+.datatable {
+  width: 33%;
+  height: 100%;
+  background: blue;
+  float: left;
+}
+.calend {
+  width: 50%;
+  height: 100%;
+  background: darkslategrey;
+  float: left;
+}
+.distribut {
+  width: 50%;
+  height: 100%;
+  background: salmon;
+  float: left;
+}
