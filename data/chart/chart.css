@@ -1,0 +1,37 @@
+.chart {
+  height: 400px;
+  width: 40px;
+  background: palegreen;
+}
+#id1 {
+  height: 95%;
+  background: white;
+}
+#id2 {
+  height: 50%;
+  background: white;
+}
+#id3 {
+  height: 20%;
+  background: white;
+}
+#id4 {
+  height: 80%;
+  background: white;
+}
+#id5 {
+  height: 65%;
+  background: white;
+}
+#id6 {
+  height: 75%;
+  background: white;
+}
+td {
+  border-bottom: 2px solid gray;
+}
+table {
+  /* border-spacing: 10px; */
+  width: 400px;
+  height: 300px;
+}
