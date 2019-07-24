@@ -1,37 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.window {
+  height: 60vh;
+  width: 40vw;
+  box-sizing: border-box;
+  border-bottom: 2px solid salmon;
+}
 .chart {
-  height: 400px;
-  width: 40px;
-  background: palegreen;
+  height: 100%;
+  margin: 2px;
+  display: inline-block;
+  width: 10%;
+  background: red;
 }
 #id1 {
-  height: 95%;
+  height: 90%;
   background: white;
 }
 #id2 {
-  height: 50%;
-  background: white;
-}
-#id3 {
   height: 20%;
   background: white;
 }
+#id3 {
+  height: 60%;
+  background: white;
+}
 #id4 {
-  height: 80%;
+  height: 40%;
   background: white;
 }
 #id5 {
-  height: 65%;
   background: white;
+  height: 4%;
 }
 #id6 {
-  height: 75%;
+  height: 80%;
   background: white;
-}
-td {
-  border-bottom: 2px solid gray;
-}
-table {
-  /* border-spacing: 10px; */
-  width: 400px;
-  height: 300px;
 }
